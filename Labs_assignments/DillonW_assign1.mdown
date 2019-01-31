@@ -1,0 +1,14 @@
+## CBS 810 Assignment 1
+
+Whalen Dillon
+
+8/27/2015
+
+### Disease: Sudden Oak Death
+
+Sudden oak death is caused by a generalist pathogen, the water mold (oomycete) *Phytophthora ramorum*, which causes lethal stem cankers on multiple oak tree species (*Quercus*) and tanoak trees (*Notholithocarpus densiflorus*) in coastal forests of Oregon and California. Susceptible *Quercus* species are effectively epidemiological dead ends, with no evidence for pathogen transmission from these hosts. Inoculum production and transmission is dominated by foliar infections on alternate reservoir host species. In Oregon and California forests tanoak and California bay laurel (*Umbellularia californica*) are the two key hosts that support epidemic sporulation and spread of *P. ramorum*. Uniquely, tanoak is the only species identified as a competent foliar host that is also susceptible to lethal stem cankers. The moisture sensitivity of *P. ramorum* makes it especially sensitive to abiotic environmental conditions. Sporulation and spread of the pathogen fluctuates with the wet/dry seasonality of the regional climate. Infection levels are dramatically reduced during the dry, hot summer months as most infected leaves are abscised, however, low levels of the pathogen oversummer on foliage. With the onset of wet-conditions this inoculum reservoir seeds the build-up of new infections, though this remains a slow process due to low temperatures through the winter. As temperatures increase into the spring so does sporulation and the probability of transmission to other hosts. Late spring (May-June) rainfall has been correlated with significantly higher levels inoculum production. 
+
+My dissertation research is focusing on how abiotic and biotic environmental factors influence pathogen load on California bay laurel and spillover to oak trees.
+
+
+![Sudden Oak Death SIR Model](SOD_SIR_model.png)
